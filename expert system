@@ -1,18 +1,3 @@
-m1=int(input("enter mark in 1st subject:"))
-m2=int(input("enter mark in 1st subject:"))
-avg=(m1+m2)/2
-if avg>80:
-     print("grade A")
-
-elif avg>=70 and avg<80:
-    print("grade B")
-
-elif avg>=60 and avg<70:
-    print("grade C")
-
-elif avg>=50 and avg<60:
-    print("grade D")
-
-els: 
-
-    print("grade E")
+An expert system is a computer program that uses artificial intelligence (AI) technologies to 
+simulate the judgment and behavior of a human or an organization that has expertise and experience in a particular field.
+Expert systems are usually intended to complement, not replace, human experts.
